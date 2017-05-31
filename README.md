@@ -1,6 +1,6 @@
 # CheckAutopista2
 
-Try it out here: http://k1wiosm.github.io/checkautopista2/
+Try it out here: https://naichaozhang.github.io/checkautopista2/
 
 _For the old CheckAutopista see: http://github.com/k1wiosm/checkautopista_
 
